@@ -1,0 +1,103 @@
+{
+  "talents": [
+    {
+      "id": 1,
+      "name": "Peg Legge",
+      "cargo": "ceo",
+      "avatar": "images/peglegge.svg"
+    },
+    {
+      "id": 2,
+      "name": "Richard Guerra",
+      "cargo": "cto",
+      "avatar": "images/richardguerra.svg"
+    },
+    {
+      "id": 3,
+      "name": "Alexandra Soltz",
+      "cargo": "designer",
+      "avatar": "images/alexandrastolz.svg"
+    },
+    {
+      "id": 4,
+      "name": "Janet Bray",
+      "cargo": "developer",
+      "avatar": "images/janetbray.svg"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "avatar": "images/projeto1.svg"
+    },
+    {
+      "id": 2,
+      "avatar": "images/projeto2.svg"
+    },
+    {
+      "id": 3,
+      "avatar": "images/projeto3.svg"
+    },
+    {
+      "id": 4,
+      "avatar": "images/projeto4.svg"
+    },
+    {
+      "id": 5,
+      "avatar": "images/projeto5.svg"
+    },
+    {
+      "id": 6,
+      "avatar": "images/projeto6.svg"
+    },
+    {
+      "id": 7,
+      "avatar": "images/projeto7.svg"
+    },
+    {
+      "id": 8,
+      "avatar": "images/projeto8.svg"
+    }
+  ],
+  "prices": [
+    {
+      "id": 1,
+      "type": "Basic",
+      "price": 100,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam",
+      "benefits": [
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit "
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Plus",
+      "price": 250,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam",
+      "benefits": [
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit "
+      ]
+    },
+    {
+      "id": 3,
+      "type": "Pro",
+      "price": 400,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam",
+      "benefits": [
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit ",
+        "Lorem ipsum, dolor sit "
+      ]
+    }
+  ]
+}
